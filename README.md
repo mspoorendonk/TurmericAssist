@@ -1,6 +1,11 @@
 
 # Turmeric Home Assistant Integration
 
+Thanks for cheking out my project.  If you find you like it, please feel free to
+
+<a href="https://www.buymeacoffee.com/kitdragop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 Turmeric is a custom Home Assistant integration designed to connect with the Paprika App API. It provides sensors for grocery lists and meal plans, making them easily accessible on your Home Assistant dashboard.
 
 ---
