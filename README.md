@@ -152,6 +152,7 @@ Check the logs under **Settings** → **System** → **Logs**.
 
 ## Future Enhancements
 - Real-time push updates from Paprika App? (May not be possible)
+- Optional step to use Paprika Login info to automatically pull users token.
 - Options to toggle upcoming meals display by count or by date.
 - Support for more Paprika API endpoints.
 - Enhanced error handling and validation.
