@@ -161,6 +161,13 @@ Check the logs under **Settings** → **System** → **Logs**.
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/kitradrago/turmeric).
 
+## Attributions
+
+Thanks to the following inspirations: 
+
+Derek Darius ( https://community.home-assistant.io/u/dariusk/ ) - RESTful sensor pull that I first found. My frustration at trying to find a nice way to format the output in this pushed me over to figuring out how to do it in an integration way to make things easier.
+@mattdsteele ( https://gist.github.com/mattdsteele/7386ec363badfdeaad05a418b9a1f30a ) which helped me figure out the groceries API link and some other things.
+
 ---
 
 ## License
