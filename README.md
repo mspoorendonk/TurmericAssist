@@ -1,5 +1,5 @@
 
-# Turmeric Home Assistant Integration
+# Turmeric: Home Assistant Integration for PaprikaAPP
 
 Thanks for cheking out my project.  If you find you like it, please feel free to
 
