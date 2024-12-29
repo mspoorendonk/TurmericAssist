@@ -1,0 +1,10 @@
+{
+  "domain": "turmeric", 
+  "name": "Turmeric",
+  "version": "1.0.0",
+  "documentation": "https://github.com/kitradrago/turmeric",
+  "dependencies": [],
+  "requirements": [],
+  "codeowners": ["@kitradrago"],
+  "config_flow": true
+}
