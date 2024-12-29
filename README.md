@@ -14,8 +14,16 @@ Turmeric is a custom Home Assistant integration designed to connect with the Pap
 
 ## Installation
 
-### 1. Clone the Repository
-Download or clone the Turmeric repository into your Home Assistant `custom_components` folder.
+### Option 1: Install via HACS (Recommended)
+1. Open Home Assistant and go to **HACS** → **Integrations**.
+2. Click the **+ Explore & Download Repositories** button.
+3. Search for "Turmeric" and click **Download**.
+4. Restart Home Assistant.
+5. Go to **Settings** → **Devices & Services** → **Integrations**.
+6. Click **Add Integration**, search for "Turmeric," and follow the setup instructions.
+
+### Option 2: Manual Installation
+1. Clone or download the repository into your Home Assistant `custom_components` folder.
 
 ```bash
 cd /config/custom_components
@@ -24,8 +32,7 @@ cd turmeric
 # Copy the integration files here
 ```
 
-### 2. Restart Home Assistant
-After placing the files in the correct folder, restart Home Assistant to recognize the new integration.
+2. Restart Home Assistant.
 
 ---
 
