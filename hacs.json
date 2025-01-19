@@ -1,7 +1,6 @@
 {
   "name": "Turmeric",
   "content_in_root": false,
-  "domains": ["turmeric"],
   "homeassistant": "2021.6.0",
   "render_readme": true,
   "zip_release": false
