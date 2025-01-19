@@ -1,8 +1,9 @@
 {
-  "domain": "turmeric", 
+  "domain": "turmeric",
   "name": "Turmeric",
   "version": "1.0.0",
-  "documentation": "https://github.com/kitradrago/turmeric",
+  "documentation": "https://github.com/kitradrago/Turmeric",
+  "issue_tracker": "https://github.com/kitradrago/Turmeric/issues",
   "dependencies": [],
   "requirements": [],
   "codeowners": ["@kitradrago"],
