@@ -45,7 +45,7 @@ To use this integration, you need your Paprika App API token. Follow these steps
 2. Run the following `curl` command, replacing `MY_EMAIL` with your Paprika account email and `MY_PAPRIKA_PASSWORD` with your password:
 
    ```bash
-   curl -X POST https://paprikaapp.com/api/v2/account/login -d 'email=MY_EMAIL&password=MY_PAPRIKA_PASSWORD'
+   curl -X POST https://paprikaapp.com/api/v1/account/login -d 'email=MY_EMAIL&password=MY_PAPRIKA_PASSWORD'
    ```
 
 3. The response will contain a field called `token`. Copy this token; you'll need it during setup.
